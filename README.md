@@ -12,4 +12,4 @@ Find source files here : https://github.com/echopen-foundation/echolab_home
 
 Find documentation here : https://github.com/echopen-foundation/echolab_home/wiki
 
-<p align="center"><img src="look@me.jpg" width="30%"/></p>
+<p align="center"><img src="look@me.jpg" width="60%"/></p>
